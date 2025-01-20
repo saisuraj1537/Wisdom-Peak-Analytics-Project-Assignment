@@ -1,0 +1,36 @@
+.user-detail {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+  margin-top: 37px;
+}
+
+.user-detail-card {
+  background-color: #f7f7f7;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.user-detail-info p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.back-button a {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.user-image-detail{
+  border-radius: 100px;
+  margin-top: 20px;
+}
+.a{
+  color: #007bff;
+  text-decoration: underline;
+}
+
+.loader{
+  text-align: center;
+}

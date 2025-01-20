@@ -1,0 +1,13 @@
+.theme-toggle {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+  }
+  
+  .theme-toggle button {
+    background-color: var(--button-bg);
+    color: var(--button-text);
+    padding: 10px 15px;
+    border-radius: 5px;
+  }
+  
